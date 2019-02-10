@@ -4,7 +4,7 @@ A Wordpress Theme to test my mettle.
 submit the following:
 
 Zip files for the Themes Folders theme folders (zip) contains:
-### Theme: raymacz
+### Theme folder name: raymacz
 ### wp-content images: uploads
 
 Zip files for the SQL and Database 
