@@ -5,7 +5,7 @@ submit the following:
 
 Zip files for the Themes Folders theme folders (zip) contains:
 ### Theme: raymacz
-###wp-content images: uploads
+### wp-content images: uploads
 
 Zip files for the SQL and Database 
 ### sql: site5net.sql
